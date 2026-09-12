@@ -43,7 +43,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,cpp,html,css,react,nodejs,docker,git,linux,vscode&perline=13" />
+  <img src="https://skillicons.dev/icons?i=ts,python,go,cpp,java,react,docker,kubernetes,git,linux,postgres,redis,kafka,prometheus,grafana,vscode&perline=16" />
 </p>
 
 ---
