@@ -32,14 +32,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=diserus&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-</p>
-
----
-
 ### 💻 LeetCode Stats
 
 <p align="center">
