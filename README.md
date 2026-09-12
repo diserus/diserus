@@ -43,7 +43,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,go,cpp,java,react,docker,kubernetes,git,linux,postgres,redis,kafka,prometheus,grafana,vscode&perline=16" />
+  <img src="https://skillicons.dev/icons?i=go,python,cpp,java,react,docker,kubernetes,git,linux,postgres,redis,kafka,prometheus,grafana,vscode&perline=16" />
 </p>
 
 ---
@@ -51,8 +51,18 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/diserus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/diserus"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:prozorenko24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/diserus">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/diserus">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/diserus">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 <p align="center">
