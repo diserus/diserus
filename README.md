@@ -12,10 +12,15 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **something cool**
-- 🌱 I’m currently learning **new technologies**
-- 💬 Ask me about **anything**
-- ⚡ Fun fact: **I love coding**
+> 💼 **Open to work** — Junior Backend Developer (Go)
+
+- 🎓 4th-year CS student at [SibSUTIS](https://sibsutis.ru/), major: *Software for Computer Engineering and Automated Systems*
+- 📍 Based in **Novosibirsk, Russia**
+- 💻 Aspiring **Backend Developer**, focused on **Go** and **server architecture**
+- 🌱 Currently learning **Go backend** and **distributed system design**
+- 🧠 Interested in distributed systems, high-load, monitoring, automation, and architecture
+- 🎸🎮📖 In my free time: guitar, gaming, books, tv shows
+- 💬 Ask me about **Go, backend, PostgreSQL**
 
 ---
 
@@ -63,6 +68,9 @@
   <a href="https://leetcode.com/diserus">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://discord.com/users/423474308095148043">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
