@@ -19,8 +19,7 @@
 - 💻 Aspiring **Backend Developer**, focused on **Go** and **server architecture**
 - 🌱 Currently learning **Go backend** and **distributed system design**
 - 🧠 Interested in distributed systems, high-load, monitoring, automation, and architecture
-- 🎸🎮📖 In my free time: guitar, gaming, books, tv shows
-- 💬 Ask me about **Go, backend, PostgreSQL**
+- 🎸🎮📖 In my free time: guitar, gaming, books, tv series
 
 ---
 
@@ -33,14 +32,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=diserus&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
-
----
-
-### 💻 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/diserus?theme=radical&font=Fira%20Code&ext=heatmap" />
 </p>
 
 ---
